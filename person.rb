@@ -4,7 +4,7 @@ require_relative 'capitalizedecorator'
 require_relative 'trimmerdecorator'
 
 class Person < Nameable
-  attr_accessor :name, :age
+  attr_accessor :name, :age, :rentals
   attr_reader :id
 
   def initialize(age, name = 'Unknown', parent_permission: true)
@@ -16,14 +16,12 @@ class Person < Nameable
     @rentals = []
   end
 
-  # rubocop:disable Naming/PredicateName
-  def is_of_age?
+  def of_age?
     age >= 18
   end
-  # rubocop:enable Naming/PredicateName
 
   def can_use_services?
-    is_of_age? || @parent_permission
+    of_age? || @parent_permission
   end
 
   def correct_name
@@ -35,12 +33,5 @@ class Person < Nameable
     @rental.person = self
   end
 
-  private :is_of_age?
+  private :of_age?
 end
-
-person = Person.new(22, 'maximilianus')
-person.correct_name
-capitalized_person = CapitalizeDecorator.new(person)
-capitalized_person.correct_name
-capitalized_trimmed_person = TrimmerDecorator.new(capitalized_person)
-puts capitalized_trimmed_person.correct_name
