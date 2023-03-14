@@ -96,9 +96,9 @@ Use npm install after cloning this project
 
 👤 **asifaminisonline **
 
-GitHub: @asifaminisonline
-Twitter: @Asif Amin
-LinkedIn: @Asif Amin
+- GitHub: [@asifaminisonline ](https://github.com/asifaminisonline)
+- Twitter: [@Asif Amin](https://twitter.com/AminAmi53306702)
+- LinkedIn: [@Asif Amin](https://www.linkedin.com/in/asifaminisonline/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,6 +132,6 @@ If you're committed to making the world a better place, please support our proje
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/tanveerisonline/Oop_School_Library/blob/main/LICENSE.md) licensed.
+This project is [MIT](https://github.com/asifaminisonline/OOP-school-library/blob/classes/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
