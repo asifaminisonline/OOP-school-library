@@ -100,6 +100,18 @@ Use npm install after cloning this project
 - Twitter: [@Asif Amin](https://twitter.com/AminAmi53306702)
 - LinkedIn: [@Asif Amin](https://www.linkedin.com/in/asifaminisonline/)
 
+👤 **Peter Ugwu**
+
+- GitHub: [@PeteUgwu](https://github.com/PeteUgwu)
+- Twitter: [@Petrus4Charles](https://twitter.com/Petrus4Charles)
+- LinkedIn: [@peteugwu](https://www.linkedin.com/in/peteugwu/)
+
+👤 **Botlhale Setou**
+
+- GitHub: [@botlhale-setou](https://github.com/Botlhale-Setou)
+- Twitter: [@botlhale_setou](https://twitter.com/Botlhale_Setou)
+- LinkedIn: [@botlhalesetou](https://www.linkedin.com/in/botlhalesetou/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
