@@ -9,5 +9,3 @@ class ListRental
     end
   end
 end
-
-
