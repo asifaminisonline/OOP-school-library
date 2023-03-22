@@ -16,6 +16,8 @@
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🔭 Future Features](#future-features)
+- [📝 License](#license)
 - [🙏 Acknowledgements](#acknowledgements)
 
 <!-- PROJECT DESCRIPTION -->
@@ -71,15 +73,15 @@ Clone this repository by using the command line : git clone https://github.com/a
 
 Install this project with:
 
-Use npm install after cloning this project
+bundle install
 
 ### Usage
 
 - [ ] First you need to download this repo or clone this repo.
 - [ ] Open this project in your local machine.
 - [ ] Open Terminal in your machine.
-- [ ] run npm install in your terninal to install necessary required dependencies for this project.
-- [ ] Copy index.html file path and paste it in your browser url.
+- [ ] run bundle install in your terninal to install necessary required dependencies for this project.
+- [ ] ruby main.rb
 - [ ] now the project will be running.
 
 ### Future Features
@@ -99,6 +101,18 @@ Use npm install after cloning this project
 - GitHub: [@asifaminisonline ](https://github.com/asifaminisonline)
 - Twitter: [@Asif Amin](https://twitter.com/AminAmi53306702)
 - LinkedIn: [@Asif Amin](https://www.linkedin.com/in/asifaminisonline/)
+
+👤 **Peter Ugwu**
+
+- GitHub: [@PeteUgwu](https://github.com/PeteUgwu)
+- Twitter: [@Petrus4Charles](https://twitter.com/Petrus4Charles)
+- LinkedIn: [@peteugwu](https://www.linkedin.com/in/peteugwu/)
+
+👤 **Botlhale Setou**
+
+- GitHub: [@botlhale-setou](https://github.com/Botlhale-Setou)
+- Twitter: [@botlhale_setou](https://twitter.com/Botlhale_Setou)
+- LinkedIn: [@botlhalesetou](https://www.linkedin.com/in/botlhalesetou/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
