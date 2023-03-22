@@ -79,6 +79,7 @@ bundle install
 - [ ] Open this project in your local machine.
 - [ ] Open Terminal in your machine.
 - [ ] run bundle install in your terninal to install necessary required dependencies for this project.
+- [ ] ruby main.rb
 - [ ] now the project will be running.
 
 ### Future Features
