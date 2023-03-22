@@ -10,14 +10,4 @@ class ListRental
   end
 end
 
-# class ListRental
-#   def list_rental
-#     list_people
-#     print 'ID of person: '
-#     id = gets.chomp.strip.to_i
-#     person_selected = @people.select { |person| person.id == id }[0]
-#     person_selected.rentals.each do |rental|
-#       puts "Date: #{rental.date}, Book \"#{rental.book.title}\", by #{rental.book.author}"
-#     end
-#   end
-# end
+
