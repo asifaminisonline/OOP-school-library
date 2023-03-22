@@ -71,15 +71,14 @@ Clone this repository by using the command line : git clone https://github.com/a
 
 Install this project with:
 
-Use npm install after cloning this project
+bundle install
 
 ### Usage
 
 - [ ] First you need to download this repo or clone this repo.
 - [ ] Open this project in your local machine.
 - [ ] Open Terminal in your machine.
-- [ ] run npm install in your terninal to install necessary required dependencies for this project.
-- [ ] Copy index.html file path and paste it in your browser url.
+- [ ] run bundle install in your terninal to install necessary required dependencies for this project.
 - [ ] now the project will be running.
 
 ### Future Features
