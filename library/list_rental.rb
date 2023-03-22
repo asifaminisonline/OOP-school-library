@@ -9,6 +9,7 @@ class ListRental
     end
   end
 end
+
 class ListRental
   def list_rental
     list_people
